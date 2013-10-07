@@ -33,4 +33,5 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
->>>>>>> f7170eec1af88ec7a3a1e8a16c828fd33bdc9271
+.cache
+vendor
